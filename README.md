@@ -1,9 +1,19 @@
+## Download the project
+
+The complete project is available in
+[Chubb_Claims_QA_Project.zip](code/Chubb_Claims_QA_Project.zip).
+
+Download and extract the archive before running the commands below.
+Application source and tests are inside the archive.
+
+
 # QA assessment — start here
 
 This is the supplied claims application with focused QA additions. It is React /
 Next.js, not Angular. See TEST_STRATEGY.md, BUG_REPORT.md, AI_WORKING_JOURNAL.md,
 VALIDATION.md and WALKTHROUGH.md. The archive includes `.git` and real staged
-commits from this session. No remote repository has been created.
+commits from this session. This GitHub repository contains the project archive and QA documentation.
+The development commit history is included inside the archive.
 
 ## Prerequisites
 Java 21, Maven 3.9+, Node 20+ (22/24 also tested for local frontend), Docker with
